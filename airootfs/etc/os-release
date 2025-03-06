@@ -1,0 +1,12 @@
+NAME="Acreetion-OS-PLASMA-Dracut-v0.0.1"
+PRETTY_NAME="AcreetionOS Linux [PLASMA EDITION]"
+ID=AcreetionOS
+BUILD_ID=alpha
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://sprunglesonthehub.github.io/acreetionost2.html"
+DOCUMENTATION_URL="https://darrengames.ddns.net:2500/index.php?title=Main_Page"
+SUPPORT_URL="sprungles.me@tuta.io"
+BUG_REPORT_URL="https://github.com/Sprunglesonthehub/AcreetionOS-Plasma/issues"
+PRIVACY_POLICY_URL="none"
+IMAGE_ID=AcreetionOS
+IMAGE_VERSION=0.0.1
